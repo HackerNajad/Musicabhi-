@@ -1,6 +1,6 @@
  Music Bot
 
-[![MUSICBOT LOGO](https://telegra.ph/file/f50911b821563d74eaa55.jpg)](https://t.me/Murat_30_God )
+[![MUSICBOT LOGO](https://telegra.ph/file/f50911b821563d74eaa55.jpg)](https://t.me/immmnndd )
 
 Generate-pyrogram-session-string - Replit
 https://replit.com/@dashezup/generate-pyrogram-session-string
